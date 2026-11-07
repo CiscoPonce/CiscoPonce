@@ -24,4 +24,4 @@ IT Service Desk Technician at RAD Group. BSc Computer Science (First-Class), Lon
 - [pi-camera-streaming](https://github.com/CiscoPonce/pi-camera-streaming) — a Raspberry Pi 5 camera stream over WebRTC, packaged with Docker.
 - [KidSpot London](https://github.com/CiscoPonce/kidspot-london) — party and family venue search for Greater London.
 
-[LinkedIn](https://www.linkedin.com/in/francisco-ponce-luque-08b63641/) · [harmonix.peeporunclub.co.uk](https://harmonix.peeporunclub.co.uk) · hello@peeporunclub.co.uk
+[LinkedIn](https://www.linkedin.com/in/francisco-ponce-luque-08b63641/)
