@@ -1,6 +1,6 @@
 ### Hi there, I'm Francisco (Cisco) Ponce Luque
 
-IT Service Desk Technician at RAD Group. BSc Computer Science (First-Class), London South Bank University. Thirteen years combining technical work with service management. Based in the United Kingdom.
+IT Service Desk Technician. BSc Computer Science (First-Class), London South Bank University. Thirteen years combining technical work with service management. Based in the United Kingdom.
 
 **Now:** [Harmonix](https://harmonix.peeporunclub.co.uk) teaches vocabulary from real song lyrics. The website is live, and the Android app is in Google Play closed testing.
 
